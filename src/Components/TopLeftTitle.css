@@ -19,9 +19,25 @@
     }
 }
 
+@media (max-width: 414px) {
+    .logo {
+        margin-left: 1vw;
+        margin-top: 1vh;
+        width: 50vw;
+    }
+}
+
 @media (max-width: 375px) {
     .logo {
         margin-left: 1vw;
+        margin-top: 1vh;
+        width: 50vw;
+    }
+}
+
+@media (max-width: 320px) {
+    .logo {
+        margin-left: -1vw;
         margin-top: 1vh;
         width: 50vw;
     }

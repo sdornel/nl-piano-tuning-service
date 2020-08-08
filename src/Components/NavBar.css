@@ -5,3 +5,19 @@
 .navbar-item{
     width: 9vw;
 }
+
+@media (max-width: 360px) {
+    .navbar {
+        /* position: absolute; */
+        margin-right: -2.50vw;
+        margin-top: 0vh;
+    }
+}
+
+@media (max-width: 320px) {
+    .navbar {
+        /* position: absolute; */
+        margin-right: -2.75vw;
+        margin-top: -0.75vh;
+    }
+}
