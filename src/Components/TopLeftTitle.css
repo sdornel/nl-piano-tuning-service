@@ -1,0 +1,29 @@
+.logo{
+    /* margin-left: 1vw; */
+    width: 75%;
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        margin-left: 1vw;
+        /* height: 100vh; */
+        width: 40vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo {
+        margin-left: 1vw;
+        /* height: 100vh; */
+        width: 40vw;
+    }
+}
+
+@media (max-width: 375px) {
+    .logo {
+        margin-left: 1vw;
+        margin-top: 1vh;
+        width: 50vw;
+    }
+}
+
