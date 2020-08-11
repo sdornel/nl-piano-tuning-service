@@ -1,10 +1,11 @@
 import React from 'react'
 import PianoTuningVideos from '../Components/PianoTuningVideos'
-import PianoTuningTextgi from '../Components/PianoTuningText'
+import PianoTuningText from '../Components/PianoTuningText'
+import './PianoTuningContainer.css'
 
 const PianoTuningContainer = (props) => {
     return(
-        <div>
+        <div className="tuning-container">
             Tuning
             <PianoTuningVideos />
             <PianoTuningText />
