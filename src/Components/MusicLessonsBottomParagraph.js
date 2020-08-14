@@ -1,8 +1,9 @@
 import React from 'react'
+import './MusicLessonsBottomParagraph.css'
 
 const MusicLessonsBottomParagraph = (props) => {
     return(
-        <div>
+        <div className="bottom-paragraph">
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
                 do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
