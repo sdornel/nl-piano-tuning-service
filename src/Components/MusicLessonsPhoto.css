@@ -1,0 +1,102 @@
+.music-lessons-photo {
+    width: 35vw;
+    height: 40vh;
+    margin-right: 25%;
+}
+
+@media (max-width: 1024px) {
+    .hmusic-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 35vw;
+        height: 40vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 40vh;
+    }
+}
+
+@media (max-width: 414px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
+
+@media (max-width: 375px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
+
+@media (max-width: 320px) {
+    .music-lessons-photo{
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
+
+.music-lessons-photo{
+    width: 50vw;
+    /* display: block;
+    margin: 0 auto; */
+    margin-left: 12.5%;
+}
+
+@media (max-width: 1024px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 40vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 40vh;
+    }
+}
+
+@media (max-width: 414px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
+
+@media (max-width: 375px) {
+    .hmusic-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
+
+@media (max-width: 320px) {
+    .music-lessons-photo {
+        display: block;
+        margin: 0 auto;
+        width: 75vw;
+        height: 30vh;
+    }
+}
