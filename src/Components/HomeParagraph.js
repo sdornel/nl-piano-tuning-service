@@ -4,6 +4,7 @@ import './HomeParagraph.css'
 const HomeParagraph = (props) => {
     return(
         <div className="home-paragraph-text">
+            <br></br><br></br>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in lectus at 
                 urna aliquam hendrerit. Vestibulum ultricies gravida nibh, nec venenatis nibh 

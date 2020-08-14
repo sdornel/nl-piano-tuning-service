@@ -4,11 +4,11 @@ const MusicLessonsBottomParagraph = (props) => {
     return(
         <div>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisi ante, blandit 
-                et mattis quis, semper et ipsum. Suspendisse facilisis hendrerit tincidunt. Mauris 
-                quis mi sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisi 
-                ante, blandit et mattis quis, semper et ipsum. Suspendisse facilisis hendrerit 
-                tincidunt. Mauris quis mi sem.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+                do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                Ut enim ad minim veniam, quis nos- trud exercitation ullamco 
+                laboris nisi ut aliquip Lorem ipsum dolor sit amet, con- sectetur 
+                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             </p>
         </div>
     )
