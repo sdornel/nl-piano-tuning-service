@@ -5,6 +5,7 @@ import TopLeftLogo from './Components/TopLeftLogo'
 import NavBar from './Components/NavBar'
 import PianoTuningContainer from './Containers/PianoTuningContainer'
 import MusicLessonsContainer from './Containers/MusicLessonsContainer'
+import ArtContainer from './Containers/ArtContainer'
 import {Container, Row, Col} from 'react-bootstrap'
 import { Route, Switch, withRouter } from "react-router-dom";
 
@@ -26,8 +27,9 @@ function App() {
         <Switch>
           <Route exact path="/piano-tuning" component={PianoTuningContainer} />
           <Route exact path="/music-lessons" component={MusicLessonsContainer} />
+          <Route exact path="/art" component={ArtContainer} />
           <Route path="/" component={HomeContainer} /> 
-          {/* Home needs to come last... */}
+          {/* Home needs to come last */}
       </Switch>
     </div>
   );

@@ -6,7 +6,7 @@ const HomeImage = (props) => {
     return(
         <div>
             <div>
-                <img className="home-image" src="../../Images/Placeholder.png" alt="home" fluid/>
+                <img className="home-image" src="../../images/Placeholder.png" alt="home" fluid/>
                 <div className="home-image-text">
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nisi ante, blandit 
