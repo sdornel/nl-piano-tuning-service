@@ -7,11 +7,17 @@ const Art = (props) => {
             <Container fluid>
                 <Row>
                     <Col>
+                    <div>
                         <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    </div>
                         {/* need something here to create blank space */}
+                    <div>
                         <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    </div>
                         {/* need something here to create blank space */}
+                    <div>
                         <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    </div>
                     </Col>
                     <Col>
                         <img src="../../images/Placeholder.png" alt="art" fluid/>
@@ -19,8 +25,12 @@ const Art = (props) => {
                     <Col>
                         <img src="../../images/Placeholder.png" alt="art" fluid/>
                         <Col>
+                        <div>
                             <img src="../../images/Placeholder.png" alt="art" fluid/>
+                        </div>
+                        <div>
                             <img src="../../images/Placeholder.png" alt="art" fluid/>
+                        </div>
                         </Col>
                     </Col>
                 </Row>

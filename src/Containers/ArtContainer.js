@@ -4,7 +4,7 @@ import Art from '../Components/Art'
 const ArtContainer = (props) => {
     return(
         <div>
-            Art
+            Art Container
             <Art />
         </div>
     )
