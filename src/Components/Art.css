@@ -1,0 +1,36 @@
+.column-one {
+    margin-bottom: 1.5vh;
+}
+
+.column-one-images {
+    height: 10vw;
+    width: 25vh;
+}
+
+@media (max-width: 1024px) {
+    .column-one-images {
+        height: 15vh;
+        width: 25vw;
+    }
+}
+
+@media (max-width: 1024px) {
+    .column-one {
+        height: 15vh;
+        width: 25vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .column-one-images {
+        height: 15vh;
+        width: 25vw;
+    }
+}
+
+@media (max-width: 768px) {
+    .column-one {
+        height: 15vh;
+        width: 25vw;
+    }
+}

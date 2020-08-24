@@ -1,5 +1,6 @@
 import React from 'react'
 import {Container, Row, Col} from 'react-bootstrap'
+import './Art.css'
 
 const Art = (props) => {
     return(
@@ -7,16 +8,16 @@ const Art = (props) => {
             <Container fluid>
                 <Row>
                     <Col>
-                    <div>
-                        <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    <div className="column-one">
+                        <img className="column-one-images" src="../../images/Placeholder.png" alt="art" fluid/>
                     </div>
                         {/* need something here to create blank space */}
-                    <div>
-                        <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    <div className="column-one">
+                        <img className="column-one-images" src="../../images/Placeholder.png" alt="art" fluid/>
                     </div>
                         {/* need something here to create blank space */}
-                    <div>
-                        <img src="../../images/Placeholder.png" alt="art" fluid/>
+                    <div className="column-one">
+                        <img className="column-one-images" src="../../images/Placeholder.png" alt="art" fluid/>
                     </div>
                     </Col>
                     <Col>
