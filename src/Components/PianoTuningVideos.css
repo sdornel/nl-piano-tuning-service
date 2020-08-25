@@ -9,3 +9,43 @@
 .video-right {
     margin-left: 40vw;
 }
+
+/* .video-1 {
+    width: 90vw;
+}
+
+.video-2 {
+    width: 90vw;
+} */
+
+@media (max-width: 414px) {
+    .video-1 {
+        /* position: absolute; */
+        margin-left: -5vw;
+        width: 90vw;
+    }
+}
+
+@media (max-width: 414px) {
+    .video-2 {
+        /* position: absolute; */
+        margin-left: -5vw;
+        width: 90vw;
+    }
+}
+
+@media (max-width: 375px) {
+    .video-1 {
+        /* position: absolute; */
+        margin-left: -5vw;
+        width: 90vw;
+    }
+}
+
+@media (max-width: 375px) {
+    .video-2 {
+        /* position: absolute; */
+        margin-left: -5vw;
+        width: 90vw;
+    }
+}

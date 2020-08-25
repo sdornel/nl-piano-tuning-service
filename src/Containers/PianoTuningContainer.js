@@ -6,7 +6,6 @@ import './PianoTuningContainer.css'
 const PianoTuningContainer = (props) => {
     return(
         <div className="tuning-container">
-            Tuning
             <PianoTuningVideos />
             <PianoTuningText />
         </div>
