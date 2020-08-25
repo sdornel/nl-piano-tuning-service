@@ -25,8 +25,29 @@ const Music = (props) => {
                         </div>
                     </Col>
                     <Col>
-                        <iframe className="video-2" title="video 2" width="560" height="315" src="https://www.youtube.com/embed/aSXtXLAVgkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                        <iframe className="video-2" title="video 2" width="560" height="315" src="https://www.youtube.com/embed/O6998W0r5Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                         </iframe>
+                    <Container fluid>
+                        <div className="wrapper">
+                            <Row>
+                                <div className="column">
+                                    <a href="http://www.google.com"><img className="music-photo" src="../../Images/Placeholder.png" alt="music-video" fluid/></a>
+                                </div>
+                                <div className="column">
+                                    <a href="http://www.google.com"><img className="music-photo" src="../../Images/Placeholder.png" alt="music-video" fluid/></a>
+                                </div>
+                                <div className="column">
+                                    <a href="http://www.google.com"><img className="music-photo" src="../../Images/Placeholder.png" alt="music-video" fluid/></a>
+                                </div>
+                                <div className="column">
+                                    <a href="http://www.google.com"><img className="music-photo" src="../../Images/Placeholder.png" alt="music-video" fluid/></a>
+                                </div>
+                                <div className="column">
+                                    <a href="http://www.google.com"><img className="music-photo" src="../../Images/Placeholder.png" alt="music-video" fluid/></a>
+                                </div>
+                            </Row>
+                        </div>
+                    </Container>
                     </Col>
                 </Row>
             </Container>
