@@ -87,7 +87,17 @@
         margin: 0 auto;
         margin-left: 12vw;
         width: 75vw;
-        height: 30vh;
+        height: 35vh;
+    }
+}
+
+@media (max-width: 411px) {
+    .bottom-paragraph {
+        display: block;
+        margin: 0 auto;
+        margin-left: 12vw;
+        width: 75vw;
+        height: 38vh;
     }
 }
 
@@ -97,7 +107,17 @@
         margin: 0 auto;
         margin-left: 12vw;
         width: 75vw;
-        height: 30vh;
+        height: 39vh;
+    }
+}
+
+@media (max-width: 360px) {
+    .bottom-paragraph {
+        display: block;
+        margin: 0 auto;
+        margin-left: 12vw;
+        width: 75vw;
+        height: 45vh;
     }
 }
 
@@ -107,6 +127,6 @@
         margin: 0 auto;
         margin-left: 12vw;
         width: 75vw;
-        height: 30vh;
+        height: 50vh;
     }
 }   

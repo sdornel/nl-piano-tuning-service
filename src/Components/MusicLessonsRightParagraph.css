@@ -37,7 +37,7 @@
     }
 }
 
-@media (max-width: 375px) {
+/* @media (max-width: 375px) {
     .right-paragraph {
         display: block;
         margin: 0 auto;
@@ -46,7 +46,7 @@
         width: 75vw;
         height: 40vh;
     }
-}
+} */
 
 @media (max-width: 320px) {
     .right-paragraph {
