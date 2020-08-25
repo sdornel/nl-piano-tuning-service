@@ -1,9 +1,11 @@
 import React from 'react'
+import Music from '../Components/Music.js'
 
 const MusicContainer = (props) => {
     return(
         <div>
-            Music Container
+            <br/><br/><br/>
+            <Music/>
         </div>
     )
 }
