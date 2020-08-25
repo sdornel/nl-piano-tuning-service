@@ -14,6 +14,7 @@ import { Route, Switch, withRouter } from "react-router-dom";
 function App() {
   return (
     <div className="App">
+      <img className="background-image" src="../../images/background-image.jpg"></img>
       <div id="padding-top-for-nav-and-logo">
       </div>
         <Container fluid>

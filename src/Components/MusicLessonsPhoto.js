@@ -4,7 +4,7 @@ import './MusicLessonsPhoto.css'
 const MusicLessonsPhoto = (props) => {
     return(
         <div>
-            <img className="music-lessons-photo" src="../../Images/Placeholder.png" alt="home" fluid/>
+            <img className="music-lessons-photo" src="../../images/Placeholder.png" alt="home" fluid/>
             <div className="bottom-paragraph">
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
