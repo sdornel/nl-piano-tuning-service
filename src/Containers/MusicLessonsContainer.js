@@ -7,7 +7,6 @@ import './MusicLessonsContainer.css'
 const MusicLessonsContainer = (props) => {
     return(
         <div className="music-lessons-container">
-            Lessons
             <br/><br/>
             <MusicLessonsPhoto />
             {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}

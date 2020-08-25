@@ -58,3 +58,14 @@
         height: 40vh;
     }
 }   
+
+@media (max-width: 450px) {
+    .right-paragraph {
+        display: block;
+        margin: 0 auto;
+        margin-left: 12vw;
+        margin-top: -20vh;
+        width: 75vw;
+        height: 40vh;
+    }
+}
